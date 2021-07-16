@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andreu Raich from Barcelona, and I work as a Software Engineer. I really enjoy coding, I usually work with Java, Spring, Angular with Typescript and some React.
+I'm Andreu Raich from Barcelona, and I work as a Software Engineer. I really enjoy coding, I usually work with Java, Spring, Node and Angular with Typescript and some React.
 I also enjoy doing System Designs, High Level Designs and Low Level Designs. 
 
 - 🔭 I’m currently working on various Java Projects
