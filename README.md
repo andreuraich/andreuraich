@@ -3,12 +3,12 @@
 I'm Andreu Raich from Barcelona, and I work as a Software Engineer. I really enjoy coding, I usually work with Java, Spring, Node and Angular with Typescript and some React.
 I also enjoy doing System Designs, High Level Designs and Low Level Designs. 
 
-- 🔭 I’m currently working on various Java Projects
-- 🌱 I’m currently learning GraphQL
-- 👯 I’m looking to collaborate on Projects or Hackathons
-- 🤔 I’m looking for help with Open Source
-- 💬 Ask me about anything
-- ⚡ Fun fact: I enjoy all kind of sports, currently addicted to climbing
+- 🔭  I’m currently working on various Java Projects
+- 🌱  I’m currently learning GraphQL
+- 👯  I’m looking to collaborate on Projects or Hackathons
+- 🤔  I’m looking for help with Open Source
+- 💬  Ask me about anything
+- ⚡  Fun fact: I enjoy all kind of sports, currently addicted to climbing
 
 
 
